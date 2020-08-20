@@ -1,2 +1,4 @@
-# QGIS_Source_Code_Analyze
-QGIS源码剖析
+# QGIS_Source_Code_Analyze——QGIS源码剖析
+主要研究对象是`QGIS_Source_Code_Analyze\C_OSGeo4W64_QGIS_src_core_gps\qgsnmeaconnection.cpp`和`QGIS_Source_Code_Analyze\C_OSGeo4W64_QGIS_src_core_gps\qgsgpsconnection.cpp`
+
+先研究GPS连接
